@@ -1,0 +1,28 @@
+img {
+    display: block;
+    width: 400px;
+    border: solid 5px rgb(0, 0, 0);
+    border-radius: 360px;
+}
+
+hr{
+    border: solid 1.5px red;
+}
+
+h2{
+    color: blue;
+}
+
+h3 {
+    color: darkmagenta;
+}
+
+a{
+    display: inline-block;
+    color: black;
+    background-color: yellowgreen;
+    border: solid 1px rgb(0, 0, 0);
+    padding: 3px;
+    text-decoration: none;
+    align-content: center;
+}
